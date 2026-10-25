@@ -70,7 +70,7 @@ Open [UXB-300](https://uxb-300.labs16.com/?utm_source=github&utm_medium=social&u
 
 ![Factory Projects](img/uxb300-factory-register.png)
 
-Signed in, **Select** the **LPS22HB**, set Device ID to **0x5D**, choose **Bus/Bit Pirate BPIO2 I²C** and click **Create**.
+Signed in, **Select** the **LPS22HB**, set Device ID to **0x5D**, choose **Bus/Bit Pirate BPIO2 I2C** and click **Create**.
 
 ![Initial Project Settings](img/uxb300-project-settings.png)
 
